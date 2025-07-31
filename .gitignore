@@ -1,0 +1,15 @@
+# Credenciais (NUNCA subir para GitHub)
+credenciais.json
+*.json
+
+# Arquivos Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Streamlit
+.streamlit/
